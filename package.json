@@ -1,27 +1,12 @@
 {
-  "name": "auth",
-  "version": "1.0.0",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "dev": "node --watch index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
     "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
     "db-local": "^3.1.0",
     "express": "^4.21.1",
-    "mysql": "^2.18.1",
-    "mysql2": "^3.11.4"
-  },
-  "devDependencies": {
-    "standard": "^17.1.2"
-  },
-  "eslintConfig": {
-    "standard": "17.1.0"
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.11.4",
+    "zod": "^3.23.8"
   }
 }

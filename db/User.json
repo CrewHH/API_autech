@@ -1,0 +1,115 @@
+[
+  {
+    "_id": "f2f18c6e-77a7-49d2-8678-a65bbb48aad5",
+    "username": "christian",
+    "password": "$2b$10$urglggWjxQbhTcasNqrKh.iThKjtogMlmm1D79o75c8GSLq6fBZHS"
+  },
+  {
+    "_id": "5608b46a-e330-4bee-8cae-36b6944929af",
+    "username": "lily",
+    "password": "$2b$10$ipqONkghhweQ6uSR1OWfAuiKrLPzsNAvtY0QgKORDz6xsD4lcZ.BO"
+  },
+  {
+    "_id": "d04f8fc6-e7d9-4db9-89b3-5cbaacae910d",
+    "username": "Santiago2",
+    "password": "$2b$10$J/hLXMfMygc096JgTe7YROqGq6G2UkcvKKwc/aSxygIKK5Q/Kknhe"
+  },
+  {
+    "_id": "80bc0196-a9a0-41c2-8cd3-402c572077b5",
+    "username": "Santiago",
+    "password": "$2b$10$TZEtjATQQniC7YELiqdsS.kM7O11GNXQfSFqTKC1SrGVKoVnH8O5e"
+  },
+  {
+    "_id": "878ad733-26d9-4e15-80a5-1060185699e9",
+    "username": "Peña",
+    "password": "$2b$10$rJIZr7p/huz3377biE5EQ.439KgW9teWXKP94d3neCDmxfD/7Aava"
+  },
+  {
+    "_id": "e65d5c80-82d9-48d6-ac62-9d63890ee3cc",
+    "username": "MIDU2",
+    "password": "$2b$10$0jMonSn.WSQy38bmcKh5tu43lXhpF9w2Y7l0eanxF/c7Fn4kCKeGS"
+  },
+  {
+    "_id": "4e37d358-4a70-4002-90d7-6e16d94f041d",
+    "username": "MIDU",
+    "password": "$2b$10$2DzcvRtKs1YaAefuHaa16u2MbOsS02G2JZqwvfm1yT07J4TSmayEW"
+  },
+  {
+    "_id": "ce3ab5a1-8f6a-43b3-a465-d4a00dcc98fa",
+    "username": "MIDUDEV",
+    "password": "123456"
+  },
+  {
+    "_id": "49285c96-a11e-4aa9-b96f-8cabb60387d5",
+    "username": "312",
+    "password": "12"
+  },
+  {
+    "_id": "ddcb2281-7ffd-4cab-b5fe-d36f082ec8f2",
+    "username": "312312314",
+    "password": "312312"
+  },
+  {
+    "_id": "664fb0f5-db48-4a05-b706-f523cb12d8b9",
+    "username": "willy",
+    "password": "hola"
+  },
+  {
+    "_id": "fc21cde8-78bc-4567-8c0d-340368da3be5",
+    "username": "Victor",
+    "password": "132"
+  },
+  {
+    "_id": "95588aa5-1f63-4acd-9464-5cc67550b6ae",
+    "username": "dayana",
+    "password": "1321"
+  },
+  {
+    "_id": "d7cb5fb4-7a71-40c1-9fe5-b1e5b3cb8812",
+    "username": "volk",
+    "password": "1"
+  },
+  {
+    "id": null,
+    "username": "liliana",
+    "password": "$2b$10$ki4sNS2sksinctiVeP4vDOYv/c2s0k6aWitn99MC7j2v.IH0ebisa"
+  },
+  {
+    "id": 1,
+    "username": "liliana123",
+    "password": "$2b$10$fXSnVxYs0VKaBypoeYkduevCf7A1RibMGen/lTnC65DVriS4VxK1O"
+  },
+  {
+    "id": 2,
+    "username": "lilian",
+    "password": "$2b$10$zc146YX468cWn2oQbKHVZOn/t3Nk1d1n2hYFs0PSLRX2mNkEO8hFq"
+  },
+  {
+    "id": 3,
+    "username": "Galvan",
+    "password": "$2b$10$3iM9Le5ZFLR6vHYJJVOiUu15fb2tYsyrGR12mlZyza6DrgU8uDeqi"
+  },
+  {
+    "id": 4,
+    "username": "user123",
+    "password": "$2b$10$/Knb/M91f/q8RCDNybu.Jel/tBP78sN7iAlf4PeHkRnUi3ujIHfoS"
+  },
+  {
+    "id": 5,
+    "username": "user12",
+    "email": "user@example.com",
+    "password": "$2b$10$wSPU5uLou9cnN5/MX3Cef.QvGthjZZkI1QnS8QIEcgJk1py/hTuLa"
+  },
+  {
+    "id": 6,
+    "username": "user",
+    "email": "victor@example.com",
+    "password": "$2b$10$BIzdFgKNkKmVT4mJjEdbaeRmCytPdMFI6PcPpNpiSwHOtqSEz0EAS"
+  },
+  {
+    "id": 7,
+    "username": "lucero",
+    "email": "lucer@example.com",
+    "password": "$2b$10$urxnW6et4YwdFgf0e7MK1O9KlcE7nyfJCEBYHBhdiR8A1uoOa71Q."
+  }
+]
